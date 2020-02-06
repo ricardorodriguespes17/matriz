@@ -1,0 +1,21 @@
+{
+  "name": "matriz",
+  "version": "1.0.0",
+  "description": "Matriz Process",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "matriz"
+  },
+  "keywords": [
+    "Matriz;",
+    "Matemática;",
+    "JavaScript;",
+    "Algebra"
+  ],
+  "author": "Ricardo Rodrigues Neto",
+  "license": "ISC"
+}
